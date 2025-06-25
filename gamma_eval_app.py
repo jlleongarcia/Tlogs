@@ -39,6 +39,7 @@ BODY_LOCATIONS = [ # Define the list of body locations
     "SBRT Próstata",
     "SBRT Ganglionar",
     "SBRT Pulmón",
+    "SBRT Páncreas",
     "Otros",
 ]
 
