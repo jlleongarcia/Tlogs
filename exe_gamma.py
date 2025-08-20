@@ -17,7 +17,7 @@ def install_packages():
         print(f"Error installing packages: {e}")
         sys.exit(1)
 
-def run_app(port=8501):
+def run_app(port):
     """Run the Streamlit app on a specific port."""
     print(f"Starting the Streamlit app on port {port}...")
     try:
